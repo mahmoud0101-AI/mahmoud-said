@@ -1,0 +1,44 @@
+#main-header{
+    background-color: black ;
+    font-size: large ;
+    color: white;
+align-content: center;
+text-align: center;
+}
+body{
+    text-align: center;
+background-color:dimgray;
+}
+
+.shelby{ 
+    background-color: rgb(53, 53, 170); 
+    font-size: medium;
+align-content: center;
+text-align: center;
+}
+
+.arthur{
+background-color: rgb(159, 81, 238);
+font-size: medium;
+align-content: center;
+text-align: center;
+}
+
+.brother{
+background-color: rgb(248, 140, 194);
+font-size: medium;
+align-content: center;
+text-align: center;
+}
+
+.wedding{
+background-color: rgb(68, 226, 68);
+align-content: center;
+text-align: center;
+}
+.peaky-BLINDERS{
+width: 300px;
+height:200px;
+
+
+}
